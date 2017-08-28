@@ -1,1 +1,2 @@
-# bootcamp-cycle-26
+# BootCamp-project
+My Andela Bootcamp repository
